@@ -30,7 +30,6 @@ android {
 }
 
 dependencies {
-
     implementation(project(":feature-one:domain"))
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
